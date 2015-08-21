@@ -1,0 +1,23 @@
+{
+  "author": "you21979",
+  "name": "munin-plugin-template",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "promise-util-task" : "git://github.com/you21979/node-promise-util-task.git",
+    "promise-util-mysql" : "git://github.com/you21979/node-promise-util-mysql.git",
+    "munin-plugin" : "",
+    "mysql" : "",
+    "redis" : "",
+    "bluebird" : ""
+  },
+  "readmeFilename": "README.md",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT"
+}
